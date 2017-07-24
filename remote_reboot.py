@@ -73,10 +73,4 @@ else:
   # Reset GPIO settings
   GPIO.cleanup()
 
-  # End program cleanly with keyboard || This is buggy for some reason
-  #except KeyboardInterrupt:
-    #print "  Quit"
-
-  # Reset GPIO settings
-  GPIO.cleanup()
 # End main loop
