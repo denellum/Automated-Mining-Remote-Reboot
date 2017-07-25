@@ -4,7 +4,7 @@
 # Script to Ping a server, if no response hard
 # power it down, and wait a set time and power
 # it back on.
-# Authors - denellum, tsurk, hanner
+# Authors - denellum, tsurk, zerodaisies 
 
 # Libraries to import
 import RPi.GPIO as GPIO
